@@ -1,52 +1,48 @@
 # ✍️ KavyaKanaja – Android App
-
-A modern Android application built to manage poems, stories, and creative writings in a structured and efficient way. It helps you create, organize, and explore literary content with a clean and fast system.
+A modern Android application developed to manage poems, stories, and creative writings in an organized and user-friendly way. The application allows users to create, store, and explore literary content efficiently with offline access.
 
 ---
 
 ## 🚀 Features
 
-• 🔐 Secure login and logout system
-• 👤 User profile creation and updates
-• ✍️ Create, edit, and delete poems and stories
-• 📚 Organized content library
-• 🔍 Search and filter writings
-• 📊 Professional dashboard with content overview
-• 🗂️ Category based organization
-• ❤️ Save favorites and bookmarks
-• 🌐 Multi language support
-• ⚙️ Settings and profile management
-• 💾 Offline storage using local database
-• ⚡ Fast and smooth performance
+🔐 User Login and Authentication
+👤 Profile Creation and Management
+✍️ Create, Edit, and Delete Poems & Stories
+📚 Organized Content Library
+🔍 Search and Filter Writings
+📊 Dashboard Overview
+🗂️ Category-based Organization
+❤️ Favorites and Bookmarks
+🌐 Multi-language Support
+💾 Offline Storage using Local Database
+⚡ Smooth and Fast Performance
 
 ---
 
 ## 🛠️ Tech Stack
 
-• Language: Kotlin or Java
-• Platform: Android Studio
-• Database: SQLite or Room Database
-• UI: Material Design components
-• Architecture: MVVM
-
+Language: Java / Kotlin
+IDE: Android Studio
+Database: SQLite / Room Database
+UI Design: Material Design Components
+Architecture: MVVM
 ---
 
 ## 📂 Project Structure
 
 com.example.kavyakanaja
 
-ui/ → Activities and UI logic
-data/ → Models and database handling
-adapter/ → RecyclerView adapters
-utils/ → Helper and utility classes
-
+ui/        → Activities & UI Components
+data/      → Models & Database Logic
+adapter/   → RecyclerView Adapters
+utils/     → Helper Classes
 ---
 
 ## ⚙️ Setup Instructions
 
 ### Clone the Repository
 
-git clone [https://github.com/malikarshid01430-byte/KavyaKanaja.git](https://github.com/malikarshid01430-byte/KavyaKanaja.git)
+git clone https://github.com/yashasgowdahp22/Kavya_Kanaja.git
 
 ---
 
@@ -78,36 +74,26 @@ This app helps you manage creative writing in one place. You can store poems and
 
 ## 🔮 Future Improvements
 
-• Cloud sync and backup
-• Social sharing feature
-• Comment and feedback system
-• Dark mode support
-• AI based writing suggestions
+Cloud Backup & Sync
+Dark Mode Support
+Social Sharing Feature
+AI Writing Suggestions
 
 ---
 
-## 🤝 Contributing
-
-Fork the repository
-Create a new branch
-Make changes and commit
-Push changes
-Create a pull request
 
 ---
 
 ## 📄 License
 
-MIT License
+Academic Project – Educational Use
 
 ---
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Yashas Gowda H P
 
 ---
 
-## ⭐ Support
 
-If you find this project useful, give it a star
