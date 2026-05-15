@@ -1,0 +1,854 @@
+[
+  {
+    "id": "1",
+    "title": "Lighting the Lamp of Kannada 🪔✨",
+    "poetName": "D.S. Karki",
+    "poemText": "We shall light the lamp of Kannada\nThe lamp of Karunadu, the lamp of rich speech\nThe winning lamp held with love\nWe shall light the lamp of Kannada",
+    "category": "Patriotic",
+    "type": "POEM",
+    "bhavartha": "This poem celebrates the Kannada language and culture, symbolizing it as a lamp that illuminates the land.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Light": "To ignite",
+      "Rich speech": "Eloquent language",
+      "Karunadu": "The land of Kannada"
+    },
+    "keywords": ["Hacchevu Kannadada Deepa", "ಡಿ.ಎಸ್. ಕರ್ಕಿ", "ಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ", "D.S. Karki", "Kannada", "Lamp", "Light"]
+  },
+  {
+    "id": "2",
+    "title": "Daffodils 🌼🍃",
+    "poetName": "William Wordsworth",
+    "poemText": "I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host, of golden daffodils;\nBeside the lake, beneath the trees,\nFluttering and dancing in the breeze.",
+    "category": "Nature",
+    "type": "POEM",
+    "bhavartha": "The poet describes the joy and beauty of seeing a field of daffodils by a lake.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Wandered": "Walked aimlessly",
+      "Host": "A large number",
+      "Fluttering": "Flapping wings or moving quickly"
+    },
+    "keywords": ["Daffodils", "William Wordsworth", "Nature", "Flowers", "Cloud", "ವಾರ್ಡ್ಸ್ ವರ್ತ್"]
+  },
+  {
+    "id": "3",
+    "title": "The Road Not Taken 🛣️🌲",
+    "poetName": "Robert Frost",
+    "poemText": "Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "The poem explores the choices we make in life and how they shape our future.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Diverged": "Separated",
+      "Undergrowth": "Small trees and plants growing beneath larger trees"
+    },
+    "keywords": ["The Road Not Taken", "Robert Frost", "Choices", "Life", "Yellow wood", "ರಾಬರ್ಟ್ ಫ್ರಾಸ್ಟ್"]
+  },
+  {
+    "id": "4",
+    "title": "O Captain! My Captain! 🚢⚓",
+    "poetName": "Walt Whitman",
+    "poemText": "O Captain! my Captain! our fearful trip is done,\nThe ship has weather'd every rack, the prize we sought is won,\nThe port is near, the bells I hear, the people all exulting,\nWhile follow eyes the steady keel, the vessel grim and daring;",
+    "category": "Patriotic",
+    "type": "POEM",
+    "bhavartha": "An elegy written on the death of Abraham Lincoln, celebrating his leadership during the Civil War.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Weather'd": "Came safely through",
+      "Exulting": "Feeling great joy",
+      "Keel": "The long piece of wood or steel along the bottom of a ship"
+    },
+    "keywords": ["O Captain My Captain", "Walt Whitman", "Abraham Lincoln", "Ship", "Captain", "ವಾಲ್ಟ್ ವಿಟ್ಮನ್"]
+  },
+  {
+    "id": "5",
+    "title": "Still I Rise 🌅✊",
+    "poetName": "Maya Angelou",
+    "poemText": "You may write me down in history\nWith your bitter, twisted lies,\nYou may trod me in the very dirt\nBut still, like dust, I'll rise.",
+    "category": "Social",
+    "type": "POEM",
+    "bhavartha": "A powerful poem about resilience and overcoming oppression.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Trod": "Stepped on",
+      "Resilience": "Ability to recover quickly"
+    },
+    "keywords": ["Still I Rise", "Maya Angelou", "Resilience", "Freedom", "ಮಾಯಾ ಆಂಜೆಲೋ"]
+  },
+  {
+    "id": "6",
+    "title": "The Raven 🦅🌙",
+    "poetName": "Edgar Allan Poe",
+    "poemText": "Once upon a midnight dreary, while I pondered, weak and weary,\nOver many a quaint and curious volume of forgotten lore—\nWhile I nodded, nearly napping, suddenly there came a tapping,\nAs of some one gently rapping, rapping at my chamber door.",
+    "category": "Classical",
+    "type": "POEM",
+    "bhavartha": "A narrative poem about mysterious loss and mourning.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Dreary": "Dull and bleak",
+      "Quaint": "Unusually attractive",
+      "Lore": "Traditional knowledge"
+    },
+    "keywords": ["The Raven", "Edgar Allan Poe", "Mystery", "Gothic", "ಎಡ್ಗರ್ ಆಲನ್ ಪೋ"]
+  },
+  {
+    "id": "7",
+    "title": "If— 🦁👑",
+    "poetName": "Rudyard Kipling",
+    "poemText": "If you can keep your head when all about you\nAre losing theirs and blaming it on you,\nIf you can trust yourself when all men doubt you,\nBut make allowance for their doubting too;",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "A poem about stoicism, self-control, and moral integrity.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Stoicism": "Endurance of pain without display",
+      "Integrity": "Quality of being honest"
+    },
+    "keywords": ["If", "Rudyard Kipling", "Wisdom", "Character", "ರುಡ್ಯಾರ್ಡ್ ಕಿಪ್ಲಿಂಗ್"]
+  },
+  {
+    "id": "8",
+    "title": "Stopping by Woods on a Snowy Evening 🌲❄️",
+    "poetName": "Robert Frost",
+    "poemText": "Whose woods these are I think I know.\nHis house is in the village though;\nHe will not see me stopping here\nTo watch his woods fill up with snow.",
+    "category": "Nature",
+    "type": "POEM",
+    "bhavartha": "A contemplative poem about nature's beauty and life's obligations.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Woods": "Forest",
+      "Village": "Small settlement"
+    },
+    "keywords": ["Stopping by Woods", "Robert Frost", "Nature", "Winter", "Snow"]
+  },
+  {
+    "id": "9",
+    "title": "Sonnet 18 🌹📜",
+    "poetName": "William Shakespeare",
+    "poemText": "Shall I compare thee to a summer's day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May,\nAnd summer's lease hath all too short a date.",
+    "category": "Love",
+    "type": "POEM",
+    "bhavartha": "A sonnet praising the beloved's eternal beauty through poetry.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Temperate": "Moderate",
+      "Lease": "Duration"
+    },
+    "keywords": ["Sonnet 18", "Shakespeare", "Love", "Beauty", "ಶೇಕ್ಸ್ಪಿಯರ್"]
+  },
+  {
+    "id": "10",
+    "title": "The Tyger 🐯🔥",
+    "poetName": "William Blake",
+    "poemText": "Tyger Tyger, burning bright,\nIn the forests of the night;\nWhat immortal hand or eye,\nCould frame thy fearful symmetry?",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "Questions the creation of evil and the nature of God.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Immortal": "Eternal",
+      "Symmetry": "Balanced proportions"
+    },
+    "keywords": ["The Tyger", "William Blake", "Creation", "Philosophy", "ವಿಲಿಯಂ ಬ್ಲೇಕ್"]
+  },
+  {
+    "id": "11",
+    "title": "Annabel Lee 🌊👻",
+    "poetName": "Edgar Allan Poe",
+    "poemText": "It was many and many a year ago,\nIn a kingdom by the sea,\nThat a maiden there lived whom you may know\nBy the name of Annabel Lee;",
+    "category": "Love",
+    "type": "POEM",
+    "bhavartha": "A tragic love poem about eternal devotion beyond death.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Maiden": "Young woman",
+      "Kingdom": "Realm"
+    },
+    "keywords": ["Annabel Lee", "Edgar Allan Poe", "Love", "Tragedy", "Romance"]
+  },
+  {
+    "id": "12",
+    "title": "Do Not Go Gentle into That Good Night ⭐🌙",
+    "poetName": "Dylan Thomas",
+    "poemText": "Do not go gentle into that good night,\nOld age should burn and rave at close of day;\nRage, rage against the dying of the light.",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "A plea to fight against death and embrace life passionately.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Rave": "Speak wildly",
+      "Dying": "Coming to an end"
+    },
+    "keywords": ["Do Not Go Gentle", "Dylan Thomas", "Death", "Life", "ಡೈಲನ್ ಥಾಮಸ್"]
+  },
+  {
+    "id": "13",
+    "title": "I Wandered Lonely as a Cloud ☁️🌼",
+    "poetName": "William Wordsworth",
+    "poemText": "I wandered lonely as a cloud\nThat floats on high o'er vales and hills,\nWhen all at once I saw a crowd,\nA host, of golden daffodils;",
+    "category": "Nature",
+    "type": "POEM",
+    "bhavartha": "Celebrates the beauty of nature and its lasting impact on memory.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Vales": "Valleys",
+      "Host": "Large number"
+    },
+    "keywords": ["Daffodils", "Wordsworth", "Nature", "Memory", "Cloud"]
+  },
+  {
+    "id": "14",
+    "title": "The Love Song of J. Alfred Prufrock 🎭🌃",
+    "poetName": "T.S. Eliot",
+    "poemText": "Let us go then, you and I,\nWhen the evening is spread out against the sky\nLike a patient etherized upon a table;",
+    "category": "Modern",
+    "type": "POEM",
+    "bhavartha": "Explores modern alienation and the paralysis of indecision.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Etherized": "Anesthetized",
+      "Alienation": "Isolation"
+    },
+    "keywords": ["Prufrock", "T.S. Eliot", "Modern", "Alienation", "ಟಿ.ಎಸ್. ಎಲಿಯಟ್"]
+  },
+  {
+    "id": "15",
+    "title": "Ozymandias 🏛️🏜️",
+    "poetName": "Percy Bysshe Shelley",
+    "poemText": "I met a traveller from an antique land,\nWho said—'Two vast and trunkless legs of stone\nStand in the desert. . . . Near them, on the sand,\nHalf sunk a shattered visage lies'",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "Reflects on the impermanence of power and human achievement.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Visage": "Face",
+      "Antique": "Ancient"
+    },
+    "keywords": ["Ozymandias", "Shelley", "Power", "Time", "Impermanence"]
+  },
+  {
+    "id": "16",
+    "title": "Kubla Khan 🏰🌊",
+    "poetName": "Samuel Taylor Coleridge",
+    "poemText": "In Xanadu did Kubla Khan\nA stately pleasure-dome decree:\nWhere Alph, the sacred river, ran\nThrough caverns measureless to man",
+    "category": "Romantic",
+    "type": "POEM",
+    "bhavartha": "A dream-like vision of an exotic paradise.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Stately": "Imposing",
+      "Decree": "Order"
+    },
+    "keywords": ["Kubla Khan", "Coleridge", "Romantic", "Dream", "Paradise"]
+  },
+  {
+    "id": "17",
+    "title": "The Solitary Reaper 🌾🎵",
+    "poetName": "William Wordsworth",
+    "poemText": "Behold her, single in the field,\nYon solitary Highland Lass!\nReaping and singing by herself;\nStop here, or gently pass!",
+    "category": "Nature",
+    "type": "POEM",
+    "bhavartha": "Celebrates the beauty of a solitary worker's song in nature.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Solitary": "Alone",
+      "Highland": "Mountainous region"
+    },
+    "keywords": ["Solitary Reaper", "Wordsworth", "Nature", "Music", "Solitude"]
+  },
+  {
+    "id": "18",
+    "title": "La Belle Dame sans Merci 🌹⚔️",
+    "poetName": "John Keats",
+    "poemText": "O what can ail thee, knight-at-arms,\nAlone and palely loitering?\nThe sedge has withered from the lake,\nAnd no birds sing.",
+    "category": "Romantic",
+    "type": "POEM",
+    "bhavartha": "A ballad about a knight enchanted by a beautiful fairy woman.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Ail": "Trouble",
+      "Loitering": "Standing around"
+    },
+    "keywords": ["La Belle Dame", "Keats", "Romantic", "Ballad", "Enchantment"]
+  },
+  {
+    "id": "19",
+    "title": "Ulysses ⚓🌊",
+    "poetName": "Alfred Lord Tennyson",
+    "poemText": "It little profits that an idle king,\nBy this still hearth, among these barren crags,\nMatch'd with an aged wife, I mete and dole\nUnequal laws unto a savage race",
+    "category": "Classical",
+    "type": "POEM",
+    "bhavartha": "A dramatic monologue about the desire for adventure and purpose.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Hearth": "Fireplace",
+      "Mete": "Distribute"
+    },
+    "keywords": ["Ulysses", "Tennyson", "Adventure", "Purpose", "ಟೆನ್ನಿಸನ್"]
+  },
+  {
+    "id": "20",
+    "title": "The Lake Isle of Innisfree 🏝️🍃",
+    "poetName": "W.B. Yeats",
+    "poemText": "I will arise and go now, and go to Innisfree,\nAnd a small cabin build there, of clay and wattles made:\nNine bean-rows will I have there, a hive for the honey-bee,\nAnd live alone in the bee-loud glade.",
+    "category": "Nature",
+    "type": "POEM",
+    "bhavartha": "Expresses longing for a peaceful, simple life in nature.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Wattles": "Woven branches",
+      "Glade": "Open space in forest"
+    },
+    "keywords": ["Innisfree", "Yeats", "Nature", "Peace", "Simplicity", "ಯೇಟ್ಸ್"]
+  },
+  {
+    "id": "21",
+    "title": "The Red Wheelbarrow 🚜🌿",
+    "poetName": "William Carlos Williams",
+    "poemText": "so much depends\nupon\n\na red wheel\nbarrow\n\nglazed with rain\nwater\n\nbeside the white\nchickens.",
+    "category": "Modern",
+    "type": "POEM",
+    "bhavartha": "Celebrates the beauty in ordinary, everyday objects.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Glazed": "Covered with smooth coating"
+    },
+    "keywords": ["Red Wheelbarrow", "Williams", "Modern", "Imagism", "Ordinary"]
+  },
+  {
+    "id": "22",
+    "title": "Because I could not stop for Death 💀🚗",
+    "poetName": "Emily Dickinson",
+    "poemText": "Because I could not stop for Death –\nHe kindly stopped for me –\nThe Carriage held but just Ourselves –\nAnd Immortality.",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "Personifies death as a gentleman caller taking the speaker on a journey.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Carriage": "Vehicle",
+      "Immortality": "Eternal life"
+    },
+    "keywords": ["Death", "Emily Dickinson", "Mortality", "Journey", "ಎಮಿಲಿ ಡಿಕಿನ್ಸನ್"]
+  },
+  {
+    "id": "23",
+    "title": "Hope is the thing with feathers 🕊️✨",
+    "poetName": "Emily Dickinson",
+    "poemText": "Hope is the thing with feathers\nThat perches in the soul,\nAnd sings the tune without the words,\nAnd never stops at all",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "Uses metaphor to describe hope as a bird that never abandons the soul.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Perches": "Rests",
+      "Soul": "Spirit"
+    },
+    "keywords": ["Hope", "Emily Dickinson", "Metaphor", "Resilience", "Bird"]
+  },
+  {
+    "id": "24",
+    "title": "Wild Geese 🦆🌾",
+    "poetName": "Mary Oliver",
+    "poemText": "You do not have to be good.\nYou do not have to walk on your knees\nfor a hundred miles through the desert repenting.\nYou only have to let the soft animal of your body\nlove what it loves.",
+    "category": "Modern",
+    "type": "POEM",
+    "bhavartha": "Encourages self-acceptance and connection with nature.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Repenting": "Showing regret"
+    },
+    "keywords": ["Wild Geese", "Mary Oliver", "Self-acceptance", "Nature", "Modern"]
+  },
+  {
+    "id": "25",
+    "title": "The New Colossus 🗽🌊",
+    "poetName": "Emma Lazarus",
+    "poemText": "Not like the brazen giant of Greek fame,\nWith conquering limbs astride from land to land;\nHere at our sea-washed, sunset gates shall stand\nA mighty woman with a torch",
+    "category": "Patriotic",
+    "type": "POEM",
+    "bhavartha": "The poem inscribed on the Statue of Liberty, welcoming immigrants.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Brazen": "Bold",
+      "Colossus": "Giant statue"
+    },
+    "keywords": ["New Colossus", "Emma Lazarus", "Statue of Liberty", "Immigration", "Freedom"]
+  },
+  {
+    "id": "26",
+    "title": "Invictus 🦅💪",
+    "poetName": "William Ernest Henley",
+    "poemText": "Out of the night that covers me,\nBlack as the pit from pole to pole,\nI thank whatever gods may be\nFor my unconquerable soul.",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "A poem of resilience and self-determination in the face of adversity.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Unconquerable": "Cannot be defeated",
+      "Pole": "End of earth's axis"
+    },
+    "keywords": ["Invictus", "Henley", "Resilience", "Courage", "Self-determination"]
+  },
+  {
+    "id": "27",
+    "title": "The Waste Land 🏚️🌫️",
+    "poetName": "T.S. Eliot",
+    "poemText": "April is the cruellest month, breeding\nLilacs out of the dead land, mixing\nMemory and desire, stirring\nDull roots with spring rain.",
+    "category": "Modern",
+    "type": "POEM",
+    "bhavartha": "A landmark modernist poem depicting post-war disillusionment.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Cruellest": "Most harsh",
+      "Breeding": "Producing"
+    },
+    "keywords": ["Waste Land", "T.S. Eliot", "Modernist", "Disillusionment", "April"]
+  },
+  {
+    "id": "28",
+    "title": "How Do I Love Thee? 💕📜",
+    "poetName": "Elizabeth Barrett Browning",
+    "poemText": "How do I love thee? Let me count the ways.\nI love thee to the depth and breadth and height\nMy soul can reach, when feeling out of sight\nFor the ends of being and ideal grace.",
+    "category": "Love",
+    "type": "POEM",
+    "bhavartha": "A sonnet expressing the many dimensions of love.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Breadth": "Width",
+      "Grace": "Elegance"
+    },
+    "keywords": ["Love", "Elizabeth Barrett Browning", "Sonnet", "Romance", "Devotion"]
+  },
+  {
+    "id": "29",
+    "title": "She Walks in Beauty ✨🌙",
+    "poetName": "Lord Byron",
+    "poemText": "She walks in beauty, like the night\nOf cloudless climes and starry skies;\nAnd all that's best of dark and bright\nMeet in her aspect and her eyes.",
+    "category": "Love",
+    "type": "POEM",
+    "bhavartha": "Celebrates the beauty of a woman through natural imagery.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Climes": "Regions",
+      "Aspect": "Appearance"
+    },
+    "keywords": ["She Walks in Beauty", "Byron", "Beauty", "Love", "Nature"]
+  },
+  {
+    "id": "30",
+    "title": "Ode to a Nightingale 🐦🌙",
+    "poetName": "John Keats",
+    "poemText": "My heart aches, and a drowsy numbness pains\nMy sense, as though of hemlock I had drunk,\nOr emptied some dull opiate to the drains\nOne minute past, and Lethe-wards had sunk",
+    "category": "Romantic",
+    "type": "POEM",
+    "bhavartha": "Explores themes of mortality, escape, and the power of art.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Hemlock": "Poisonous plant",
+      "Opiate": "Drug causing sleep"
+    },
+    "keywords": ["Nightingale", "Keats", "Romantic", "Mortality", "Art"]
+  },
+  {
+    "id": "31",
+    "title": "Ode to the West Wind 🌬️🍂",
+    "poetName": "Percy Bysshe Shelley",
+    "poemText": "O wild West Wind, thou breath of Autumn's being,\nThou, from whose unseen presence the leaves dead\nAre driven, like ghosts from an enchanter fleeing",
+    "category": "Nature",
+    "type": "POEM",
+    "bhavartha": "Addresses the wind as a powerful force of change and inspiration.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Enchanter": "Magician",
+      "Breath": "Spirit"
+    },
+    "keywords": ["West Wind", "Shelley", "Nature", "Change", "Power"]
+  },
+  {
+    "id": "32",
+    "title": "The Lady of Shalott 🏰🚣‍♀️",
+    "poetName": "Alfred Lord Tennyson",
+    "poemText": "On either side of the river lie\nLong fields of barley and of rye,\nThat clothe the wold and meet the sky;\nAnd through the field the road runs by",
+    "category": "Romantic",
+    "type": "POEM",
+    "bhavartha": "A ballad about a cursed woman isolated in a tower.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Wold": "Open country",
+      "Rye": "Grain"
+    },
+    "keywords": ["Lady of Shalott", "Tennyson", "Romantic", "Curse", "Isolation"]
+  },
+  {
+    "id": "33",
+    "title": "Paul Revere's Ride 🐎🔔",
+    "poetName": "Henry Wadsworth Longfellow",
+    "poemText": "Listen, my children, and you shall hear\nOf the midnight ride of Paul Revere,\nOn the eighteenth of April, in Seventy-Five;\nHardly a man is now alive",
+    "category": "Patriotic",
+    "type": "POEM",
+    "bhavartha": "Narrates Paul Revere's midnight ride to warn of British troops.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Midnight": "Middle of night",
+      "Seventy-Five": "1775"
+    },
+    "keywords": ["Paul Revere", "Longfellow", "Patriotic", "American Revolution", "History"]
+  },
+  {
+    "id": "34",
+    "title": "The Song of Hiawatha 🏹🌲",
+    "poetName": "Henry Wadsworth Longfellow",
+    "poemText": "By the shores of Gitche Gumee,\nBy the shining Big-Sea-Water,\nStood the wigwam of Nokomis,\nDaughter of the Moon, Nokomis.",
+    "category": "Epic",
+    "type": "POEM",
+    "bhavartha": "An epic poem based on Native American legends.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Wigwam": "Native American dwelling",
+      "Gitche Gumee": "Lake Superior"
+    },
+    "keywords": ["Hiawatha", "Longfellow", "Epic", "Native American", "Legend"]
+  },
+  {
+    "id": "35",
+    "title": "The Pied Piper of Hamelin 🐀🎵",
+    "poetName": "Robert Browning",
+    "poemText": "Hamelin Town's in Brunswick,\nBy famous Hanover city;\nThe river Weser, deep and wide,\nWashes its wall on the riverside.",
+    "category": "Folk",
+    "type": "POEM",
+    "bhavartha": "A narrative poem about a mysterious piper who rid a town of rats.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Brunswick": "German region",
+      "Weser": "River in Germany"
+    },
+    "keywords": ["Pied Piper", "Browning", "Folk", "Legend", "Rats"]
+  },
+  {
+    "id": "36",
+    "title": "Gunga Din 🐘💧",
+    "poetName": "Rudyard Kipling",
+    "poemText": "You may talk o' gin and beer\nWhen you're quartered safe out 'ere,\nAn' you're sent to penny-fights an' Aldershot it;\nBut when it comes to slaughter",
+    "category": "Patriotic",
+    "type": "POEM",
+    "bhavartha": "Honors an Indian water carrier who saved a British soldier.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Quartered": "Stationed",
+      "Slaughter": "Killing"
+    },
+    "keywords": ["Gunga Din", "Kipling", "India", "War", "Heroism"]
+  },
+  {
+    "id": "37",
+    "title": "The Highwayman 🐎🌙",
+    "poetName": "Alfred Noyes",
+    "poemText": "The wind was a torrent of darkness among the gusty trees,\nThe moon was a ghostly galleon tossed upon cloudy seas,\nThe road was a ribbon of moonlight over the purple moor,",
+    "category": "Romantic",
+    "type": "POEM",
+    "bhavartha": "A tragic ballad of love and betrayal.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Torrent": "Violent stream",
+      "Galleon": "Sailing ship"
+    },
+    "keywords": ["Highwayman", "Noyes", "Romantic", "Ballad", "Tragedy"]
+  },
+  {
+    "id": "38",
+    "title": "The Listeners 🚪🌙",
+    "poetName": "Walter de la Mare",
+    "poemText": "'Is there anybody there?' said the Traveller,\nKnocking on the moonlit door;\nAnd his horse in the silence champed the grasses\nOf the forest's ferny floor.",
+    "category": "Mystery",
+    "type": "POEM",
+    "bhavartha": "A mysterious poem about a traveller knocking at a deserted house.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Champed": "Chewed noisily",
+      "Ferny": "Covered with ferns"
+    },
+    "keywords": ["The Listeners", "Walter de la Mare", "Mystery", "Supernatural", "Solitude"]
+  },
+  {
+    "id": "39",
+    "title": "Sea-Fever ⛵🌊",
+    "poetName": "John Masefield",
+    "poemText": "I must go down to the seas again, to the lonely sea and the sky,\nAnd all I ask is a tall ship and a star to steer her by,\nAnd the wheel's kick and the wind's song and the white sail's shaking,",
+    "category": "Nature",
+    "type": "POEM",
+    "bhavartha": "Expresses the poet's longing to return to the sea.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Steer": "Guide",
+      "Kick": "Resistance"
+    },
+    "keywords": ["Sea-Fever", "Masefield", "Sea", "Adventure", "Nature"]
+  },
+  {
+    "id": "40",
+    "title": "Adonais 🌹👼",
+    "poetName": "Percy Bysshe Shelley",
+    "poemText": "I weep for Adonais—he is dead!\nO, weep for Adonais! though our tears\nThaw not the frost which binds so dear a head!",
+    "category": "Elegy",
+    "type": "POEM",
+    "bhavartha": "An elegy for the poet John Keats.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Thaw": "Melt",
+      "Elegy": "Mournful poem"
+    },
+    "keywords": ["Adonais", "Shelley", "Elegy", "Keats", "Mourning"]
+  },
+  {
+    "id": "41",
+    "title": "In Memoriam A.H.H. 💔🌹",
+    "poetName": "Alfred Lord Tennyson",
+    "poemText": "Strong Son of God, immortal Love,\nWhom we, that have not seen thy face,\nBy faith, and faith alone, embrace,\nBelieving where we cannot prove;",
+    "category": "Elegy",
+    "type": "POEM",
+    "bhavartha": "A long elegy mourning the death of Tennyson's friend Arthur Hallam.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Immortal": "Eternal",
+      "Embrace": "Accept"
+    },
+    "keywords": ["In Memoriam", "Tennyson", "Elegy", "Grief", "Friendship"]
+  },
+  {
+    "id": "42",
+    "title": "Dover Beach 🌊🏖️",
+    "poetName": "Matthew Arnold",
+    "poemText": "The sea is calm tonight,\nThe tide is full, the moon lies fair\nUpon the straits; on the French coast the light\nGleams and is gone;",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "Reflects on the loss of religious faith in the modern world.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Straits": "Narrow water passage",
+      "Gleams": "Shines briefly"
+    },
+    "keywords": ["Dover Beach", "Arnold", "Faith", "Modernity", "Sea"]
+  },
+  {
+    "id": "43",
+    "title": "God's Grandeur ☀️🌾",
+    "poetName": "Gerard Manley Hopkins",
+    "poemText": "The world is charged with the grandeur of God.\nIt will flame out, like shining from shook foil;\nIt gathers to a greatness, like the ooze of oil\nCrushed.",
+    "category": "Devotional",
+    "type": "POEM",
+    "bhavartha": "Celebrates the presence of God in the natural world.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Grandeur": "Splendor",
+      "Charged": "Filled"
+    },
+    "keywords": ["God's Grandeur", "Hopkins", "Devotional", "Nature", "Divine"]
+  },
+  {
+    "id": "44",
+    "title": "The Darkling Thrush 🐦🌲",
+    "poetName": "Thomas Hardy",
+    "poemText": "I leant upon a coppice gate\nWhen Frost was spectre-grey,\nAnd Winter's dregs made desolate\nThe weakening eye of day.",
+    "category": "Nature",
+    "type": "POEM",
+    "bhavartha": "A poem finding hope in the midst of winter's darkness.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Coppice": "Thicket",
+      "Spectre": "Ghost"
+    },
+    "keywords": ["Darkling Thrush", "Hardy", "Nature", "Hope", "Winter"]
+  },
+  {
+    "id": "45",
+    "title": "The Second Coming ☠️🌀",
+    "poetName": "W.B. Yeats",
+    "poemText": "Turning and turning in the widening gyre\nThe falcon cannot hear the falconer;\nThings fall apart; the centre cannot hold;\nMere anarchy is loosed upon the world.",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "A prophetic poem about chaos and the approach of a new era.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Gyre": "Spiral",
+      "Anarchy": "Disorder"
+    },
+    "keywords": ["Second Coming", "Yeats", "Prophecy", "Chaos", "Apocalypse"]
+  },
+  {
+    "id": "46",
+    "title": "The Love Song of J. Alfred Prufrock (Excerpt) 🎭🌃",
+    "poetName": "T.S. Eliot",
+    "poemText": "In the room the women come and go\nTalking of Michelangelo.\nThe yellow fog that rubs its back upon the window-panes",
+    "category": "Modern",
+    "type": "POEM",
+    "bhavartha": "Explores modern anxiety and the paralysis of action.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Fog": "Mist",
+      "Window-panes": "Glass windows"
+    },
+    "keywords": ["Prufrock", "Eliot", "Modern", "Anxiety", "Alienation"]
+  },
+  {
+    "id": "47",
+    "title": "Birches 🌳❄️",
+    "poetName": "Robert Frost",
+    "poemText": "When I see birches bend to left and right\nAcross the lines of straighter darker trees,\nI like to think some boy's been swinging them.",
+    "category": "Nature",
+    "type": "POEM",
+    "bhavartha": "Reflects on childhood, memory, and the balance between reality and imagination.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Birches": "Trees",
+      "Swinging": "Moving back and forth"
+    },
+    "keywords": ["Birches", "Frost", "Nature", "Childhood", "Memory"]
+  },
+  {
+    "id": "48",
+    "title": "Mending Wall 🧱🌿",
+    "poetName": "Robert Frost",
+    "poemText": "Something there is that doesn't love a wall,\nThat sends the frozen-ground-swell under it,\nAnd spills the upper boulders in the sun;\nAnd makes gaps even two can pass abreast.",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "Questions the necessity and value of boundaries between people.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Swell": "Rise",
+      "Abreast": "Side by side"
+    },
+    "keywords": ["Mending Wall", "Frost", "Boundaries", "Relationships", "Philosophy"]
+  },
+  {
+    "id": "49",
+    "title": "After Apple-Picking 🍎🍂",
+    "poetName": "Robert Frost",
+    "poemText": "My long two-pointed ladder's sticking through a tree\nToward heaven still,\nAnd there's a barrel that I didn't fill\nBeside it, and there may be two or three",
+    "category": "Nature",
+    "type": "POEM",
+    "bhavartha": "Reflects on labor, exhaustion, and the passage of time.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Ladder": "Climbing tool",
+      "Barrel": "Container"
+    },
+    "keywords": ["Apple-Picking", "Frost", "Labor", "Exhaustion", "Harvest"]
+  },
+  {
+    "id": "50",
+    "title": "Design 🕷️🌸",
+    "poetName": "Robert Frost",
+    "poemText": "I found a dimpled spider, fat and white,\nOn a white heal-all, holding up a moth\nLike a white piece of rigid satin cloth—\nAssorted characters of death and blight",
+    "category": "Philosophical",
+    "type": "POEM",
+    "bhavartha": "Questions whether there is design or purpose in nature's cruelty.",
+    "audioUrl": "",
+    "aiNarration": true,
+    "narrationSpeed": "normal",
+    "wordMeanings": {
+      "Dimpled": "With small indentations",
+      "Heal-all": "Type of flower"
+    },
+    "keywords": ["Design", "Frost", "Nature", "Philosophy", "Purpose"]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "कन्नड़ का दीप जलाएंगे 🪔✨",
+    "poetName": "डी.एस. कर्की",
+    "poemText": "हम कन्नड़ का दीप जलाएंगे\nकरुनाडु का दीप, समृद्ध वाणी का दीप\nप्रेम से पकड़ा गया जीत का दीप\nहम कन्नड़ का दीप जलाएंगे",
+    "category": "देशभक्ति",
+    "type": "POEM",
+    "bhavartha": "यह कविता कन्नड़ भाषा और संस्कृति का जश्न मनाती है, इसे एक दीपक के रूप में चित्रित करती है जो भूमि को रोशन करता है।",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "wordMeanings": {
+      "जलाएंगे": "प्रकाश करेंगे",
+      "वाणी": "बोली",
+      "समृद्ध": "अमीर"
+    },
+    "keywords": ["Kannad ka deep jalayenge", "Hacchevu Kannadada Deepa", "D.S. Karki", "DS Karki", "Light", "Lamp", "Patriotic", "Kannada"]
+  },
+  {
+    "id": "h1",
+    "title": "कोशिश करने वालों की हार नहीं होती 🌊🚣",
+    "poetName": "हरिवंश राय बच्चन",
+    "poemText": "लहरों से डरकर नौका पार नहीं होती,\nकोशिश करने वालों की हार नहीं होती।\nनन्हीं चींटी जब दाना लेकर चलती है,\nचढ़ती दीवारों पर, सौ बार फिसलती है।\nमन का विश्वास रगों में साहस भरता है,\nचढ़कर गिरना, गिरकर चढ़ना न अखरता है।",
+    "category": "प्रेरक",
+    "type": "POEM",
+    "bhavartha": "यह कविता दृढ़ता और निरंतर प्रयास के महत्व को सिखाती है। जीवन में सफल होने के लिए निरंतर प्रयास आवश्यक है।",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "wordMeanings": {
+      "नौका": "नाव",
+      "साहस": "हिम्मत",
+      "अखरता": "बुरा लगना"
+    },
+    "keywords": ["Koshish karne walon ki haar nahi hoti", "Harivansh Rai Bachchan", "Inspirational", "Effort", "Success", "Waves"]
+  },
+  {
+    "id": "h2",
+    "title": "झांसी की रानी ⚔️🚩",
+    "poetName": "सुभद्रा कुमारी चौहान",
+    "poemText": "सिंहासन हिल उठे राजवंशों ने भृकुटी तानी थी,\nबूढ़े भारत में भी आई फिर से नयी जवानी थी,\nगुमी हुई आज़ादी की कीमत सबने पहचानी थी,\nदूर फिरींगी को करने की सबने मन में ठानी थी।",
+    "category": "देशभक्ति",
+    "type": "POEM",
+    "bhavartha": "झांसी की रानी लक्ष्मीबाई की वीरता की गाथा, जिन्होंने अंग्रेजों के खिलाफ बहादुरी से लड़ाई लड़ी।",
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "wordMeanings": {
+      "भृकुटी": "भौंहे (गुस्सा)",
+      "फिरींगी": "अंग्रेज",
+      "ठानी": "निश्चय किया"
+    },
+    "keywords": ["Jhansi ki Rani", "Subhadra Kumari Chauhan", "Freedom", "Patriotic", "Laxmi Bai", "History"]
+  }
+]

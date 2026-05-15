@@ -1,0 +1,121 @@
+[
+  {
+    "id": "1",
+    "name": "ಡಿ.ಎಸ್. ಕರ್ಕಿ",
+    "bio": "D.S. Karki (1907-1984) was a popular Kannada poet known for his patriotic and rhythmic songs. His most famous work is 'Hacchevu Kannadada Deepa'.",
+    "famousWorks": ["ಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ", "ನಮನ", "ಭಾವತೀರ್ಥ"],
+    "keywords": ["DS Karki", "Patriotic", "Deepa"]
+  },
+  {
+    "id": "2",
+    "name": "ಕೆ.ಎಸ್. ನಿಸಾರ್ ಅಹಮದ್",
+    "bio": "K.S. Nissar Ahmed (1936-2020) was a prominent Kannada poet and writer, awarded Padma Shri in 2008. He is famous for his work 'Nityotsava'.",
+    "famousWorks": ["ಜೋಗದ ಸಿರಿ ಬೆಳಕಿನಲ್ಲಿ", "ಕುರಿಗಳು ಸಾರ್ ಕುರಿಗಳು", "ನಿತ್ಯೋತ್ಸವ"],
+    "keywords": ["Nissar Ahmed", "Nityotsava", "Jogada Siri"]
+  },
+  {
+    "id": "3",
+    "name": "ಕುವೆಂಪು",
+    "bio": "K.V. Puttappa (1904-1994), pen name Kuvempu, was the first Kannada writer to receive the Jnanpith Award and is honored as Rashtrakavi.",
+    "famousWorks": ["ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ", "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ", "ಮಲೆಗಳಲ್ಲಿ ಮದುಮಗಳು"],
+    "keywords": ["Kuvempu", "Rashtrakavi", "Jnanpith", "Puttappa"]
+  },
+  {
+    "id": "4",
+    "name": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+    "bio": "D.R. Bendre (1896-1981), known as Ambikatanayadatta, was a legendary poet of the Navodaya movement and a Jnanpith Award winner.",
+    "famousWorks": ["ನಾಕುತಂತಿ", "ಗಂಗಾವತರಣ", "ಶ್ರಾವಣ ಬಂತು"],
+    "keywords": ["Bendre", "Ambikatanayadatta", "Navodaya"]
+  },
+  {
+    "id": "5",
+    "name": "ಬಸವಣ್ಣ",
+    "bio": "Basavanna (12th century) was a philosopher, social reformer, and pioneer of the Bhakti movement. He introduced Vachana literature.",
+    "famousWorks": ["ವಚನಗಳು", "ಕಾಯಕವೇ ಕೈಲಾಸ", "ಕಳಬೇಡ ಕೊಲಬೇಡ"],
+    "keywords": ["Basavanna", "Vachana", "Lingayat", "Social Reformer"]
+  },
+  {
+    "id": "6",
+    "name": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ",
+    "bio": "D.V. Gundappa (1887-1975), known as DVG, was a great scholar and philosopher, best known for the philosophical collection 'Mankuthimmana Kagga'.",
+    "famousWorks": ["ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ", "ಮರುಳ ಮುನಿಯನ ಕಗ್ಗ"],
+    "keywords": ["DVG", "Mankuthimmana Kagga", "Philosophy"]
+  },
+  {
+    "id": "7",
+    "name": "ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ",
+    "bio": "K.S. Narasimhaswamy (1915-2003) was a popular poet known for his romantic and simple lyrics, especially the 'Mysuru Mallige' collection.",
+    "famousWorks": ["ಮೈಸೂರು ಮಲ್ಲಿಗೆ", "ಶೀಲಲತೆ"],
+    "keywords": ["KSN", "Mysuru Mallige", "Romantic Poet"]
+  },
+  {
+    "id": "8",
+    "name": "ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪ",
+    "bio": "G.S. Shivarudrappa (1926-2013) was a poet, researcher, and recipient of the Rashtrakavi title, known for his balanced and modern poetic style.",
+    "famousWorks": ["ಸಾಮಗಾನ", "ದೀಪ ಹಚ್ಚುವ ಬನ್ನಿ"],
+    "keywords": ["GSS", "Rashtrakavi", "Modern Poet"]
+  },
+  {
+    "id": "9",
+    "name": "ಅಕ್ಕಮಹಾದೇವಿ",
+    "bio": "Akka Mahadevi (12th century) was a prominent poet and mystic of the Veerashaiva movement, known for her intense spiritual Vachanas.",
+    "famousWorks": ["ವಚನಗಳು"],
+    "keywords": ["Akka Mahadevi", "Vachana", "Mystic"]
+  },
+  {
+    "id": "10",
+    "name": "ಸರ್ವಜ್ಞ",
+    "bio": "Sarvajna (16th century) was a wandering poet and philosopher famous for his three-line poems (Tripadis) that offer practical wisdom.",
+    "famousWorks": ["ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು"],
+    "keywords": ["Sarvajna", "Tripadi", "Wisdom"]
+  },
+  {
+    "id": "11",
+    "name": "ಕನಕದಾಸರು",
+    "bio": "Kanakadasa (16th century) was a poet, philosopher, and saint of the Haridasa movement, known for his social reformist Keerthanas.",
+    "famousWorks": ["ಹರಿಭಕ್ತಿಸಾರ", "ಕುಲ ಕುಲವೆಂದು ಹೊಡೆದಾಡದಿರಿ"],
+    "keywords": ["Kanakadasa", "Haridasa", "Keerthana"]
+  },
+  {
+    "id": "12",
+    "name": "ಪುರಂದರದಾಸರು",
+    "bio": "Purandara Dasa (1484-1564) is hailed as the 'Pitamaha' of Carnatic Music and was a prolific Haridasa saint.",
+    "famousWorks": ["ಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ", "ಮಾನವ ನಿನ್ನಯ ಮಾನವ ಜನ್ಮವು"],
+    "keywords": ["Purandara Dasa", "Carnatic Music", "Pitamaha"]
+  },
+  {
+    "id": "13",
+    "name": "ಪಿ. ಲಂಕೇಶ್",
+    "bio": "P. Lankesh (1935-2000) was an editor, writer, and poet known for his sharp social criticism and powerful modern poetry like 'Avva'.",
+    "famousWorks": ["ಅವ್ವ", "ಲಂಕೇಶ್ ಪತ್ರಿಕೆ"],
+    "keywords": ["Lankesh", "Modernist", "Social Critic"]
+  },
+  {
+    "id": "15",
+    "name": "ಅಲ್ಲಮಪ್ರಭು",
+    "bio": "Allama Prabhu was a 12th-century mystic and Vachana poet, serving as the president of Anubhava Mantapa.",
+    "famousWorks": ["ವಚನಗಳು"],
+    "keywords": ["Allama Prabhu", "Mystic", "Vachana"]
+  },
+  {
+    "id": "16",
+    "name": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್",
+    "bio": "Masti Venkatesha Iyengar (1891-1986), a Jnanpith winner, is considered the 'Grandfather of Kannada Short Stories'.",
+    "famousWorks": ["ಮಾಸ್ತಿಯವರ ಕಥೆಗಳು", "ಚೆನ್ನಬಸವ ನಾಯಕ"],
+    "keywords": ["Masti", "Short Stories", "Jnanpith"]
+  },
+  {
+    "id": "17",
+    "name": "ಜಿ.ಪಿ. ರಾಜರತ್ನಂ",
+    "bio": "G.P. Rajarathnam (1909-1979) was a poet who used colloquial language to reach the common man, famous for 'Ratnana Padagalu'.",
+    "famousWorks": ["ರತ್ನನ ಪದಗಳು", "ಆನೆ ಬಂತು ಆನೆ"],
+    "keywords": ["Rajarathnam", "Ratna", "Colloquial"]
+  },
+  {
+    "id": "18",
+    "name": "ಸಿದ್ಧರಾಮ",
+    "bio": "Siddharama (12th century) was a prominent Vachana poet and social worker from Solapur, dedicated to the service of mankind.",
+    "famousWorks": ["ವಚನಗಳು"],
+    "keywords": ["Siddharama", "Vachana", "Service"]
+  }
+]
