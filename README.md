@@ -71,6 +71,8 @@ The application works offline and ensures easy access to stored content anytime.
 • AI-based Writing Suggestions
 
 ---
+**APK Download: https://drive.google.com/file/d/1cqvre4Qn4KW3CgCwf_Y9sHGC7vXpm6BI/view?usp=drivesdk
+
 
 ## 👨‍💻 Author
 
